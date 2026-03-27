@@ -59,8 +59,14 @@
 
 <h3>AI & LLM</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" title="OpenAI" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure AI Foundry" width="50" height="50"/>&nbsp;
+<!-- OpenAI — Simple Icons CDN ✅ -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" title="OpenAI" width="50" height="50"/>&nbsp;
+
+<!-- Azure — Simple Icons CDN ✅ -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/microsoftazure.svg" title="Microsoft Azure" width="50" height="50"/>&nbsp;
+
+<!-- Anthropic/Claude — Simple Icons CDN ✅ -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/anthropic.svg" title="Claude API" width="50" height="50"/>&nbsp;
 
 > **Claude API** · **OpenAI API** · **Azure AI Foundry** · **Azure OpenAI Service** · **LangChain** · **MCP Protocol**
 
