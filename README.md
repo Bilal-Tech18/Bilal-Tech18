@@ -59,15 +59,10 @@
 
 <h3>AI & LLM</h3>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/openai/openai-original.svg" title="OpenAI" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" title="OpenAI" width="50" height="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure AI Foundry" width="50" height="50"/>&nbsp;
 
 > **Claude API** · **OpenAI API** · **Azure AI Foundry** · **Azure OpenAI Service** · **LangChain** · **MCP Protocol**
-
-<h3>Tools & Integrations</h3>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" width="50" height="50"/>&nbsp;
 
 > Also experienced with: **Stripe Connect** · **Keycloak** · **Gravitee** · **GitHub Actions** · **Resend** · **Google Secret Manager**
 
@@ -93,16 +88,6 @@
 | **Yugen Shopping** | React · Node.js · Google Ads API | Google Shopping performance analysis with Labelizer segmentation |
 | **Limova** | Node.js · MCP · Claude API | AI agent platform — appointments, lead gen & accounting automation |
 | **Twin.so** *(Twin Labs)* | Node.js · OAuth · Google Secret Manager | OAuth app configuration across 20+ integration providers (40+ environments) |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bilal-Tech18&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-Tech18&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
